@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\a1311\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\a1311\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Asteroid Striking Earth Simulator.621283861.00" t="ExcludeRecursive" />
+    <e p="D:\programme\unity\Asteroid Striking Earth Simulator" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Bullet.cs" t="Include" />
+        <e p="Cube.cs" t="Include" />
+        <e p="CubeController.cs" t="Include" />
+        <e p="EarthCenter.cs" t="Include" />
+        <e p="GlobalVar.cs" t="Include" />
+        <e p="Init.cs" t="Include" />
+        <e p="OnCamera.cs" t="Include" />
+        <e p="Reset.cs" t="Include" />
+        <e p="Shoot.cs" t="Include" />
+        <e p="Tmp.cs" t="Include" />
+      </e>
+      <e p="Asteroid Striking Earth Simulator.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
